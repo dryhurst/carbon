@@ -38,3 +38,4 @@ tests/coverage
 
 # a11y testing
 .aat.yml
+config.bat
