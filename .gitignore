@@ -50,3 +50,6 @@ package-lock.json
 
 # AAT test results from DAP/Axe
 results/
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
